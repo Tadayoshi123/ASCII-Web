@@ -144,6 +144,6 @@ This project helped us learn about the topics below :
 <hr>
 
 # This project was made by :
-### Yanis (as [Tadayoshi123](https://github.com/Tadayoshi123)
+### Yanis (as [Tadayoshi123](https://github.com/Tadayoshi123))
 ### Kévin (as [KevOneRedOne](https://github.com/KevOneRedOne))
 ### Antoine (as [LittleDuckSugar](https://github.com/LittleDuckSugar))
