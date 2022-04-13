@@ -144,6 +144,6 @@ This project helped us learn about the topics below :
 <hr>
 
 # This project was made by :
-### Yanis (as YDJOUDI)
-### Kévin (as KALVES)
-### Antoine (as ABERNARD3)
+### Yanis (as Tadayoshi123)
+### Kévin (as KevOneRedOne)
+### Antoine (as LittleDuckSugar)
